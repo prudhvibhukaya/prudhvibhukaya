@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prudhvibhukaya
 - 👀 I’m interested in creating insightful data analyses and visualizations.
-- 🌱 I’m currently learning advanced statistical modeling techniques and machine learning algorithms.
+- 🌱 I’m learning advanced statistical modeling techniques and machine learning algorithms.
 - 💞️ I’m looking to collaborate on projects related to data analysis, business intelligence, and data visualization.
 - 📫 How to reach me: Feel free to connect with me on LinkedIn at https://www.linkedin.com/in/prudhvi-bhukaya-5a06641b2/
 - 😄 Pronouns: He/Him
